@@ -1,5 +1,5 @@
 # Description
-The third exercise in a C programming course. The exercise involves files, linked lists, pointers to functions, binary search, quicksort and genral funcations.
+The third exercise in a C programming course. The exercise involves files, linked lists, pointers to functions, binary search, quicksort,files and genral funcations.
 
 In this exercise we implemented a food store management system.
 
